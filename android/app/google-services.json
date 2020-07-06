@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257634139431",
+    "firebase_url": "https://numpakbis.firebaseio.com",
+    "project_id": "numpakbis",
+    "storage_bucket": "numpakbis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257634139431:android:0a98182ae750747df67d02",
+        "android_client_info": {
+          "package_name": "com.lieweitek.numpakbis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257634139431-t585v3605hucn54rlj7m55jdo601vub8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpDaq0TAGZ_N327uwzUDhUSpFOnIZhuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257634139431-t585v3605hucn54rlj7m55jdo601vub8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
